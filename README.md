@@ -16,4 +16,4 @@ This repository contains essential numerical methods implemented in MATLAB by **
 3. Use the provided functions with appropriate parameters.
 
 
-© 2024 Mohammad Mahdi Khaligh. All rights reserved.
+Mohammad Mahdi Khaligh.
