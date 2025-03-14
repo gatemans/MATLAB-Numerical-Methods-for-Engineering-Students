@@ -8,6 +8,8 @@ This repository contains essential numerical methods implemented in MATLAB by **
 - Bisection Method
 - Euler's Method
 - Runge-Kutta 4th Order
+- Hermite Elimination
+  
 "this list will be updated"
 
 ## How to Run
