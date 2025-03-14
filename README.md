@@ -15,7 +15,7 @@ This repository contains essential numerical methods implemented in MATLAB by **
 ## How to Run
 1. Clone the repository.
 2. Open MATLAB and add the folder to the path.
-3. Use the provided functions with appropriate parameters.
+3. Use the provided functions with appropriate parameters.It's already there for Hermite Elimination, but I'll leave rest of the methods uo to users
 
 
 Mohammad Mahdi Khaligh.
