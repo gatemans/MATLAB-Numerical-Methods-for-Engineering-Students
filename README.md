@@ -9,6 +9,7 @@ This repository contains essential numerical methods implemented in MATLAB by **
 - Euler's Method
 - Runge-Kutta 4th Order
 - Hermite Elimination
+- falseposition
   
 "this list will be updated"
 
